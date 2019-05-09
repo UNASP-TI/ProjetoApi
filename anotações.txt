@@ -1,0 +1,14 @@
+create table usuario(
+    idUser int primary key AUTO_INCREMENT,
+    nomeUsuario varchar(50) not null
+ );
+
+INSERT into usuario (nomeUsuario) values ("Alciomar");
+
+
+Microsoft.EntityFrameworkCore.Tools
+
+Pomelo.EntityFrameworkCore.MySql
+
+
+Scaffold-DbContext "Server=localhost;User Id=root;Password=;Database=projetoapi" "Pomelo.EntityFrameworkCore.MySql" -OutputDir Models -f

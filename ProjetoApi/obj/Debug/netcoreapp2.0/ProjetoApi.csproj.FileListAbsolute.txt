@@ -1,0 +1,11 @@
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp2.0\ProjetoApi.deps.json
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp2.0\ProjetoApi.runtimeconfig.json
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp2.0\ProjetoApi.runtimeconfig.dev.json
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp2.0\ProjetoApi.dll
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\bin\Debug\netcoreapp2.0\ProjetoApi.pdb
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.csprojResolveAssemblyReference.cache
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.csproj.CoreCompileInputs.cache
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.AssemblyInfoInputs.cache
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.AssemblyInfo.cs
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.dll
+C:\Users\alciomar.hollanda\source\repos\ProjetoApi\ProjetoApi\obj\Debug\netcoreapp2.0\ProjetoApi.pdb
